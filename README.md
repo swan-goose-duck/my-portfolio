@@ -4,7 +4,7 @@ Welcome to my GIS portfolio! Below you can browse examples of my GIS coursework 
 
 ## About me
 <div>
-<img align="left" width="25%" height="25%" src="assets/images/about-me.jpeg">
+<img style="float: left;" width="25%" height="25%" src="assets/images/about-me.jpeg">
 My name is Ashton Gibson and I’m an undergraduate student in the Program in the Environment at the University of Michigan. 
 
 I am particularly interested in the field of GIS for the applications in environmental conservation, as well as the opportunites for facilitating scientific communication through mapping.
@@ -27,8 +27,7 @@ Through my coursework, I have become familiar with GIS skills such as:
 - Creating interactive maps or uploading existing maps via ArcGIS Online -->
 </div>
 
-    **View my resume**
-<a href="./assets/resume/Gibson-Ashton-Resume.pdf">here</a>.
+**View my resume** <a href="./assets/resume/Gibson-Ashton-Resume.pdf">here</a>.
 
 #### Jump to Section
 - [GIS Coursework Samples](#coursework-layouts)
