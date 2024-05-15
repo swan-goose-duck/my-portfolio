@@ -2,7 +2,7 @@
 Welcome to my GIS portfolio! Below you can browse examples of my GIS coursework and personal cartography projects. 
 
 
-## About me 
+## About me
 <div>
 <img align="left" width="25%" height="25%" src="assets/images/about-me.jpeg">
 My name is Ashton Gibson and I’m an undergraduate student in the Program in the Environment at the University of Michigan. 
@@ -11,17 +11,25 @@ I am particularly interested in the field of GIS for the applications in environ
 
 Through my coursework, I have become familiar with GIS skills such as:
 
-- Creating and editing geospatial data
+
+<ul>
+  <li>Creating and editing geospatial data</li>
+  <li>Building workflow models to aid in analyses</li>
+  <li>Performing spatial, interpolation, and geoprocessing analyses</li>
+  <li>Using/building 3D models and 3D Local Scenes in ArcGIS</li>
+  <li>Creating interactive maps or uploading existing maps via ArcGIS Online</li>
+</ul> 
+<!-- - Creating and editing geospatial data
 - Building workflow models to aid in analyses
 - Performing spatial, interpolation, and geoprocessing analyses
 - Using Hydrologic modeling toolsets in ArcGIS to conduct watershed analyses
 - Using/building 3D models and 3D Local Scenes in ArcGIS
-- Creating interactive maps or uploading existing maps via ArcGIS Online
-
+- Creating interactive maps or uploading existing maps via ArcGIS Online -->
+</div>
 
     **View my resume**
 <a href="./assets/resume/Gibson-Ashton-Resume.pdf">here</a>.
-</div>
+
 #### Jump to Section
 - [GIS Coursework Samples](#coursework-layouts)
 - [Personal Projects](#qgis-layouts)
